@@ -1,10 +1,13 @@
 # EnergyEnvironment
 
+## Missions
+- Reliable, Affordable and Sustainable Energy
+
 ## What you can do
 - https://www.un.org/en/actnow/ten-actions
 - https://www.epa.gov/climate-change/what-you-can-do-about-climate-change
 
-## Some works
+## Some Initiatives
 - https://www.climatetrace.org/
 - https://www.clientearth.org/
 - https://www.climatechange.ai/
