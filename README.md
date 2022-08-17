@@ -1,7 +1,8 @@
 # EnergyEnvironment
 
 ## Missions
-- Reliable, Affordable and Sustainable Energy
+- Deliver Reliable, Affordable and Sustainable Energy.
+- Improve the Environment for future generations.
 
 ## What you can do
 - https://www.un.org/en/actnow/ten-actions
