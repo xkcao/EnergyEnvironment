@@ -2,7 +2,7 @@
 
 ## Missions
 - Deliver Reliable, Affordable and Sustainable Energy.
-- Improve the Environment for future generations.
+- Improve the Environment for current and future generations.
 
 ## What you can do
 - https://www.un.org/en/actnow/ten-actions
